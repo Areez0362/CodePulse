@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\.NET Udemy CodePulse\\API\\CodePulse.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5028336C-85AE-4812-9FF6-D4C9AE46AFF4}|CodePulse.API.csproj|e:\\.net udemy codepulse\\api\\codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5028336C-85AE-4812-9FF6-D4C9AE46AFF4}|CodePulse.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5028336C-85AE-4812-9FF6-D4C9AE46AFF4}|CodePulse.API.csproj|e:\\.net udemy codepulse\\api\\codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5028336C-85AE-4812-9FF6-D4C9AE46AFF4}|CodePulse.API.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET Udemy CodePulse\\API\\CodePulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.NET Udemy CodePulse\\API\\CodePulse.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:05:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "E:\\.NET Udemy CodePulse\\API\\CodePulse.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
