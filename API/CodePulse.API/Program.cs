@@ -24,7 +24,8 @@ namespace CodePulse.API
                 options.UseSqlServer(builder.Configuration.GetConnectionString("CodePulseConnectionString"));
             });
 
-            builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();   
+            builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
+            builder.Services.AddScoped<IBlogPostRepository, BlogPostRepository>();
 
             var app = builder.Build();
 
